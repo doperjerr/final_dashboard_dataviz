@@ -1,0 +1,31 @@
+﻿sheet,column,type,description
+weekly_panel,week_start,date,Sunday that starts the week (Bangkok time). ACSC reports use Sunday–Saturday weeks.
+weekly_panel,week_end,date,Saturday that ends the week.
+weekly_panel,year / month,int / text,"Calendar year and YYYY-MM of week_start (Gregorian, not Buddhist Era)."
+weekly_panel,afnc_verdicts,int,Anti-Fake News Center verdicts published that week (fake + distorted + true).
+weekly_panel,afnc_fake / afnc_distorted / afnc_true,int,Verdicts labelled ข่าวปลอม / ข่าวบิดเบือน / ข่าวจริง.
+weekly_panel,afnc_false_share_pct,float,(fake + distorted) ÷ verdicts × 100. Empty when no verdicts that week.
+weekly_panel,afnc_false_<category>,int,"Fake + distorted verdicts by AFNC category: government policy & news, health products, finance & stocks, disasters, public order & security; other = economy, drugs and remaining categories."
+weekly_panel,afnc_online_crime_advisories,int,"AFNC posts in the online-crime section (scam warnings), which carry no fake/true verdict."
+weekly_panel,acsc_reported,bool,"TRUE when an ACSC weekly figure was found for this week. Earlier weeks are blank, not zero."
+weekly_panel,acsc_cases,int,"Online fraud cases filed through Thaipoliceonline that week, as announced by ACSC."
+weekly_panel,acsc_loss_baht,int,Total reported loss in baht for the week.
+weekly_panel,acsc_loss_precision,text,exact = figure given to the baht; rounded = news gave a rounded figure (e.g. 260 ล้านบาท).
+weekly_panel,acsc_loss_per_case_baht,int,"acsc_loss_baht ÷ acsc_cases, computed here."
+weekly_panel,acsc_top_type_th / _case_share_pct,text / float,"Most frequent scam type that week and its share of cases, when the briefing reported it."
+weekly_panel,acsc_highest_loss_type_th / _loss_baht,text / int,"Scam type with the largest loss and that loss, when reported."
+weekly_panel,acsc_flag,text,Warning for weeks whose published figures look wrong or cover an unusual period. Read before charting.
+weekly_panel,acsc_source_url,url,News article (or police press-release page) the ACSC figures were taken from.
+afnc_items,post_id,int,WordPress post ID on antifakenewscenter.com.
+afnc_items,published_bkk,datetime,Publication time converted from the export's UTC timestamp to Bangkok time (UTC+7).
+afnc_items,date / week_start / year / month,date etc.,Derived from published_bkk. week_start is the Sunday of that week.
+afnc_items,item_type,text,"Verdict, Online crime advisory, Knowledge article, Other news, Activity, Announcement, Unlabelled."
+afnc_items,verdict_th / verdict_en,text,"ข่าวปลอม Fake, ข่าวบิดเบือน Distorted, ข่าวจริง True. Empty for non-verdict posts."
+afnc_items,verdict_source,text,status_label = from the export's label; tags = recovered from tags where the label held a category name or was missing (13 posts).
+afnc_items,category_th / category_en,text,AFNC news category (ประเภทข่าว) with an English translation.
+afnc_items,checked_by_agency,text,Agency that verified the claim (หน่วยงานที่ตรวจสอบ). Empty where the export gave none or '-'.
+afnc_items,title / content,text,Headline and verdict text in Thai. Content is in the CSV; the workbook keeps the first 500 characters.
+afnc_items,topic_tags,text,"Post tags, semicolon-separated, with generic tags (AFNC, verdict words, category names) removed."
+afnc_items,view_count,int,"Page views at download time (1 Nov 2026). A snapshot, not views in the week of posting."
+afnc_items,url,url,Link to the post.
+acsc_weekly,(all),,"One row per ACSC weekly briefing as found in news reports, with the article date, publisher and URL. days = length of the reporting period."
