@@ -1,0 +1,49 @@
+{
+  "generated_on": "2026-11-02",
+  "inputs": [
+    {
+      "file": "weekly_panel.csv",
+      "sha256": "1647a5dfad1f9073b25173eb6a7140492539562e0962ff7816aea56b4624fe0b"
+    },
+    {
+      "file": "afnc_items.csv",
+      "sha256": "c20950c456ee1e104fb2e355321cec9dea0c5875d59262fa55a50c808805b690"
+    },
+    {
+      "file": "acsc_weekly.csv",
+      "sha256": "1f9e37323ecb127a730cae07d323173b83d0b1b29a8180890d631052c8835698"
+    },
+    {
+      "file": "AIID_Excel_Export-20261026.xlsx",
+      "sha256": "bb6168db872882b295252b6ed75da56ffe50cd54be02e0bfabd670410b488c98"
+    }
+  ],
+  "counts": {
+    "weekly_rows": 409,
+    "afnc_posts": 17726,
+    "afnc_verdicts": 14458,
+    "acsc_reported_weeks": 48,
+    "acsc_default_included": 46,
+    "ai_incidents": 1775,
+    "ai_classified": 1496
+  },
+  "panel_reconciliation_differences": 0,
+  "issues": [
+    {
+      "source": "ACSC",
+      "key": "2026-05-30",
+      "action": "analysis bucket 2026-05-31; raw dates preserved; excluded by default"
+    }
+  ],
+  "rules": [
+    "Raw files are unchanged; exact duplicate keys removed only if all fields match; conflicting duplicates fail.",
+    "weekly_panel is the weekly spine; AFNC is rebuilt from publication dates and reconciled to the supplied panel.",
+    "Missing scam statistics stay null; AFNC empty weeks are zero publication counts, not evidence of zero misinformation.",
+    "2026-08-16 suspect totals and 2026-05-31 eight-day overlapping interval are excluded from scam metrics by default, never deleted.",
+    "Other caution rows remain included; all flags and original reporting intervals are retained.",
+    "Ratios are recomputed from sums. Months follow week_start; they are reporting buckets, not exact calendar-month event counts.",
+    "AIID uses the newest snapshot actually available in the project; no snapshots are concatenated.",
+    "AIID is contextual only: no invented join between foreign AI incidents and Thai scam cases.",
+    "Scam type names are preserved; no automatic merging of ambiguous category labels."
+  ]
+}

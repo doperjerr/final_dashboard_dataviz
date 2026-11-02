@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Signal / ข่าวที่ตรวจสอบและภัยหลอกลวง</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<aside class="rail">
+  <a class="brand" href="#overview"><span class="brand-mark">s<span>.</span></span><span>SIGNAL<span class="brand-sub">ข้อมูลที่มองให้ลึกกว่าเดิม</span></span></a>
+  <div class="rail-label">สำรวจข้อมูล</div>
+  <nav aria-label="หน้าของแดชบอร์ด">
+    <button data-tab="overview" class="active"><span>01</span> ภาพรวมและคดี</button>
+    <button data-tab="news"><span>02</span> ข่าวที่ถูกตรวจสอบ</button>
+    <button data-tab="ai"><span>03</span> บริบทความเสี่ยง AI</button>
+    <button data-tab="quality"><span>04</span> ที่มาและคุณภาพข้อมูล</button>
+  </nav>
+  <div class="rail-bottom"><div class="status-dot"></div> ต้นแบบจากข้อมูลจริง<p>AFNC · ACSC · AIID</p><small>ข้อมูลแต่ละแหล่งมีขอบเขตต่างกัน<br>อ่านวิธีนับก่อนเปรียบเทียบ</small></div>
+</aside>
+<main>
+  <header class="topbar"><span>DATA EXPLORER <span class="slash">/</span> ข่าวที่ตรวจสอบและภัยออนไลน์</span><span class="prototype-tag">LOCAL PROTOTYPE</span></header>
+  <section class="intro"><div><p class="eyebrow" id="eyebrow">01 / THAILAND WEEKLY MONITOR</p><h1 id="page-title">คดีมาก ≠ เสียหายหนัก</h1><p class="lead" id="page-lead">อ่านจำนวนคดีควบคู่กับความเสียหาย และบริบทข่าวที่ถูกตรวจสอบในช่วงเดียวกัน</p></div><div class="intro-note">เริ่มจากคำถาม<br><strong>ตัวเลขกำลังบอกอะไรเรา?</strong></div></section>
+  <section class="filters" id="thai-filters" aria-label="ตัวกรองข้อมูลไทย">
+    <label>ช่วงสัปดาห์เริ่มต้น<input type="date" id="start" min="2018-12-30" max="2026-10-25"></label>
+    <span class="filter-dash">—</span>
+    <label>ถึงสัปดาห์เริ่มต้น<input type="date" id="end" min="2018-12-30" max="2026-10-25"></label>
+    <div class="presets"><button id="shared" class="small-button">ช่วงที่มีข้อมูลคดี</button><button id="all" class="small-button">ประวัติข่าวทั้งหมด</button></div>
+    <label class="checkbox"><input type="checkbox" id="include-flagged"> รวม 2 ช่วงที่ต้องระวังเป็นพิเศษ</label>
+  </section>
+  <p class="filter-caption" id="filter-caption"></p>
+  <div id="error" class="notice danger" hidden></div>
+  <section id="overview" class="view"></section>
+  <section id="news" class="view" hidden></section>
+  <section id="ai" class="view" hidden></section>
+  <section id="quality" class="view" hidden></section>
+  <footer>อ่านตัวเลขพร้อมขอบเขตของข้อมูล <span>•</span> จำนวนข่าวที่ตรวจสอบ ≠ ข่าวทั้งหมดในสังคม <span>•</span> ความสัมพันธ์ ≠ เหตุและผล</footer>
+</main>
+<div id="tooltip" role="tooltip" hidden></div>
+<script src="data.js"></script><script src="news.js"></script><script src="app.js"></script>
+</body></html>

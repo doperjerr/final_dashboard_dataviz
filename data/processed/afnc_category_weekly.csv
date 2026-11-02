@@ -1,0 +1,1611 @@
+﻿week_start,category,fake,distorted,true
+2018-12-30,Disasters,1,0,0
+2019-02-10,Public order & security,1,0,0
+2019-03-03,Finance & stocks,1,0,0
+2019-03-31,Public order & security,1,0,0
+2019-04-07,Drugs,1,0,0
+2019-05-12,Finance & stocks,1,0,0
+2019-05-12,Other news,1,0,0
+2019-05-19,Other news,1,0,0
+2019-05-26,Finance & stocks,1,0,0
+2019-06-09,Other news,1,0,0
+2019-06-16,Disasters,1,0,0
+2019-06-16,Public order & security,1,0,0
+2019-06-30,Health products,1,0,0
+2019-07-21,Finance & stocks,1,0,0
+2019-08-04,Government policy & news,2,0,0
+2019-08-04,Public order & security,1,0,0
+2019-08-11,Government policy & news,1,0,0
+2019-08-11,Public order & security,1,0,0
+2019-08-18,Other news,1,0,0
+2019-10-13,Finance & stocks,2,0,0
+2019-10-13,Government policy & news,2,0,0
+2019-10-13,Other news,2,0,0
+2019-10-13,Public order & security,1,0,0
+2019-10-20,Disasters,2,0,0
+2019-10-20,Drugs,1,0,0
+2019-10-20,Government policy & news,1,0,0
+2019-10-20,Health products,1,0,0
+2019-10-27,Disasters,2,0,0
+2019-10-27,Finance & stocks,1,0,0
+2019-10-27,Government policy & news,0,0,2
+2019-10-27,Health products,2,0,0
+2019-10-27,Other news,2,0,0
+2019-10-27,Public order & security,1,0,0
+2019-11-03,Government policy & news,1,0,0
+2019-11-03,Health products,4,0,2
+2019-11-03,Public order & security,1,0,0
+2019-11-10,Government policy & news,2,0,0
+2019-11-24,Finance & stocks,2,0,0
+2019-11-24,Public order & security,1,0,0
+2019-12-01,Finance & stocks,1,0,0
+2019-12-01,Public order & security,1,0,0
+2019-12-08,Government policy & news,2,0,0
+2019-12-08,Health products,1,0,0
+2019-12-15,Disasters,1,0,0
+2019-12-15,Economy,0,0,1
+2019-12-15,Finance & stocks,1,0,0
+2019-12-15,Government policy & news,2,0,0
+2019-12-15,Public order & security,3,0,0
+2019-12-22,Economy,4,0,1
+2019-12-22,Government policy & news,1,0,1
+2019-12-22,Health products,1,0,1
+2019-12-29,Economy,0,0,1
+2019-12-29,Government policy & news,2,0,0
+2020-01-05,Government policy & news,2,0,4
+2020-01-05,Health products,2,0,1
+2020-01-05,Public order & security,2,0,0
+2020-01-12,Finance & stocks,0,0,1
+2020-01-12,Government policy & news,1,1,2
+2020-01-12,Health products,6,0,2
+2020-01-12,Public order & security,1,0,0
+2020-01-19,Government policy & news,4,0,3
+2020-01-19,Health products,3,0,5
+2020-01-26,Economy,1,0,0
+2020-01-26,Government policy & news,5,0,6
+2020-01-26,Health products,25,0,1
+2020-02-02,Disasters,0,0,1
+2020-02-02,Economy,0,1,0
+2020-02-02,Government policy & news,9,0,4
+2020-02-02,Health products,9,0,2
+2020-02-02,Other news,2,0,0
+2020-02-09,Economy,0,0,1
+2020-02-09,Government policy & news,6,0,3
+2020-02-09,Health products,10,1,3
+2020-02-09,Other news,1,0,0
+2020-02-09,Public order & security,0,1,0
+2020-02-16,Disasters,1,0,0
+2020-02-16,Government policy & news,10,2,7
+2020-02-16,Health products,9,0,1
+2020-02-16,Public order & security,1,0,0
+2020-02-23,Disasters,1,0,0
+2020-02-23,Government policy & news,5,0,1
+2020-02-23,Health products,11,1,1
+2020-02-23,Other news,1,0,0
+2020-03-01,Disasters,0,1,0
+2020-03-01,Government policy & news,1,4,3
+2020-03-01,Health products,24,0,0
+2020-03-08,Disasters,0,0,1
+2020-03-08,Government policy & news,3,0,5
+2020-03-08,Health products,30,0,3
+2020-03-15,Disasters,0,0,1
+2020-03-15,Government policy & news,7,4,14
+2020-03-15,Health products,18,1,2
+2020-03-22,Economy,1,0,0
+2020-03-22,Finance & stocks,1,1,1
+2020-03-22,Government policy & news,11,2,1
+2020-03-22,Health products,19,3,0
+2020-03-22,Public order & security,2,0,0
+2020-03-29,Disasters,0,1,0
+2020-03-29,Finance & stocks,2,1,0
+2020-03-29,Government policy & news,15,7,4
+2020-03-29,Health products,14,3,0
+2020-03-29,Other news,2,1,0
+2020-03-29,Public order & security,1,0,0
+2020-04-05,Disasters,2,0,0
+2020-04-05,Government policy & news,9,5,3
+2020-04-05,Health products,10,2,0
+2020-04-05,Other news,1,0,0
+2020-04-12,Disasters,0,0,1
+2020-04-12,Government policy & news,8,4,2
+2020-04-12,Health products,10,15,0
+2020-04-12,Other news,2,0,0
+2020-04-19,Disasters,0,0,1
+2020-04-19,Government policy & news,5,6,2
+2020-04-19,Health products,8,8,0
+2020-04-19,Public order & security,2,0,0
+2020-04-26,Economy,1,0,0
+2020-04-26,Finance & stocks,2,0,0
+2020-04-26,Government policy & news,8,4,2
+2020-04-26,Health products,1,0,1
+2020-04-26,Public order & security,1,0,0
+2020-05-03,Finance & stocks,1,0,0
+2020-05-03,Government policy & news,3,1,5
+2020-05-03,Health products,5,2,0
+2020-05-10,Disasters,1,0,2
+2020-05-10,Government policy & news,1,0,4
+2020-05-10,Health products,7,0,0
+2020-05-10,Other news,2,0,0
+2020-05-17,Disasters,0,0,1
+2020-05-17,Government policy & news,1,0,2
+2020-05-17,Health products,8,5,0
+2020-05-17,Other news,1,0,0
+2020-05-24,Government policy & news,3,0,4
+2020-05-24,Health products,5,5,0
+2020-05-24,Other news,1,0,0
+2020-05-24,Public order & security,1,0,0
+2020-05-31,Government policy & news,1,0,5
+2020-05-31,Health products,6,2,0
+2020-05-31,Other news,1,0,0
+2020-05-31,Public order & security,1,0,0
+2020-06-07,Disasters,0,0,2
+2020-06-07,Finance & stocks,1,0,0
+2020-06-07,Government policy & news,4,0,2
+2020-06-07,Health products,4,0,0
+2020-06-07,Other news,2,0,0
+2020-06-14,Disasters,1,0,0
+2020-06-14,Government policy & news,1,0,4
+2020-06-14,Health products,5,1,1
+2020-06-14,Other news,1,0,0
+2020-06-21,Finance & stocks,0,0,1
+2020-06-21,Government policy & news,1,1,2
+2020-06-21,Health products,5,2,0
+2020-06-28,Government policy & news,3,0,3
+2020-06-28,Health products,8,1,0
+2020-07-05,Government policy & news,1,0,2
+2020-07-05,Health products,6,1,0
+2020-07-05,Public order & security,1,0,0
+2020-07-12,Disasters,1,1,0
+2020-07-12,Government policy & news,2,0,1
+2020-07-12,Health products,9,0,0
+2020-07-19,Government policy & news,0,0,3
+2020-07-19,Health products,7,2,0
+2020-07-26,Disasters,0,1,2
+2020-07-26,Finance & stocks,1,0,0
+2020-07-26,Government policy & news,0,1,0
+2020-07-26,Health products,6,2,1
+2020-08-02,Disasters,0,1,0
+2020-08-02,Finance & stocks,2,0,0
+2020-08-02,Government policy & news,1,1,0
+2020-08-02,Health products,8,2,0
+2020-08-09,Finance & stocks,2,0,0
+2020-08-09,Government policy & news,1,0,1
+2020-08-09,Health products,7,1,0
+2020-08-09,Public order & security,3,0,0
+2020-08-16,Disasters,1,0,0
+2020-08-16,Finance & stocks,1,0,1
+2020-08-16,Health products,9,1,0
+2020-08-16,Public order & security,1,0,0
+2020-08-23,Finance & stocks,1,1,0
+2020-08-23,Government policy & news,3,0,0
+2020-08-23,Health products,5,0,0
+2020-08-23,Public order & security,2,0,0
+2020-08-30,Disasters,0,1,0
+2020-08-30,Finance & stocks,0,1,0
+2020-08-30,Government policy & news,0,0,2
+2020-08-30,Health products,7,1,0
+2020-09-06,Finance & stocks,2,0,0
+2020-09-06,Health products,8,2,2
+2020-09-13,Disasters,1,0,1
+2020-09-13,Government policy & news,1,1,0
+2020-09-13,Health products,4,3,2
+2020-09-20,Disasters,2,0,0
+2020-09-20,Government policy & news,1,2,2
+2020-09-20,Health products,4,1,0
+2020-09-20,Other news,1,0,0
+2020-09-20,Public order & security,1,0,0
+2020-09-27,Finance & stocks,1,0,0
+2020-09-27,Government policy & news,2,1,0
+2020-09-27,Health products,6,4,0
+2020-10-04,Disasters,1,1,1
+2020-10-04,Government policy & news,1,0,1
+2020-10-04,Health products,8,0,0
+2020-10-04,Other news,1,0,0
+2020-10-11,Finance & stocks,1,0,0
+2020-10-11,Government policy & news,1,0,2
+2020-10-11,Health products,7,3,0
+2020-10-18,Health products,11,1,0
+2020-10-18,Other news,1,0,0
+2020-10-18,Public order & security,0,1,0
+2020-10-25,Disasters,0,1,0
+2020-10-25,Finance & stocks,1,0,1
+2020-10-25,Health products,7,1,1
+2020-10-25,Other news,1,0,0
+2020-11-01,Finance & stocks,0,0,1
+2020-11-01,Government policy & news,1,2,1
+2020-11-01,Health products,7,1,0
+2020-11-08,Finance & stocks,1,1,0
+2020-11-08,Government policy & news,0,1,0
+2020-11-08,Health products,9,1,0
+2020-11-08,Public order & security,0,1,0
+2020-11-15,Disasters,1,0,0
+2020-11-15,Government policy & news,2,1,3
+2020-11-15,Health products,3,2,1
+2020-11-15,Other news,2,0,0
+2020-11-22,Disasters,1,0,0
+2020-11-22,Finance & stocks,1,0,0
+2020-11-22,Government policy & news,2,0,1
+2020-11-22,Health products,8,2,0
+2020-11-29,Economy,1,0,0
+2020-11-29,Government policy & news,4,1,3
+2020-11-29,Health products,9,0,0
+2020-11-29,Other news,1,0,0
+2020-12-06,Disasters,1,0,0
+2020-12-06,Finance & stocks,1,0,1
+2020-12-06,Government policy & news,1,2,3
+2020-12-06,Health products,10,2,1
+2020-12-13,Disasters,2,0,0
+2020-12-13,Government policy & news,3,1,2
+2020-12-13,Health products,6,2,1
+2020-12-13,Other news,3,0,0
+2020-12-13,Public order & security,1,0,0
+2020-12-20,Finance & stocks,1,1,0
+2020-12-20,Government policy & news,7,3,1
+2020-12-20,Health products,10,1,0
+2020-12-20,Other news,1,0,0
+2020-12-27,Finance & stocks,1,1,0
+2020-12-27,Government policy & news,3,1,2
+2020-12-27,Health products,10,0,0
+2020-12-27,Public order & security,2,0,0
+2021-01-03,Disasters,1,0,0
+2021-01-03,Finance & stocks,1,0,1
+2021-01-03,Government policy & news,4,2,4
+2021-01-03,Health products,12,1,0
+2021-01-03,Other news,1,0,0
+2021-01-03,Public order & security,1,0,0
+2021-01-10,Disasters,2,0,0
+2021-01-10,Finance & stocks,3,0,0
+2021-01-10,Government policy & news,4,1,7
+2021-01-10,Health products,5,1,0
+2021-01-10,Other news,1,0,0
+2021-01-17,Finance & stocks,2,1,1
+2021-01-17,Government policy & news,4,1,5
+2021-01-17,Health products,7,2,0
+2021-01-17,Other news,2,0,0
+2021-01-17,Public order & security,2,0,0
+2021-01-24,Finance & stocks,1,0,0
+2021-01-24,Government policy & news,1,2,6
+2021-01-24,Health products,9,1,0
+2021-01-24,Other news,2,0,0
+2021-01-31,Disasters,1,0,0
+2021-01-31,Government policy & news,4,0,8
+2021-01-31,Health products,8,0,0
+2021-01-31,Other news,1,0,0
+2021-02-07,Disasters,2,0,0
+2021-02-07,Finance & stocks,1,0,1
+2021-02-07,Government policy & news,1,2,1
+2021-02-07,Health products,11,0,0
+2021-02-07,Other news,1,1,0
+2021-02-14,Government policy & news,4,3,2
+2021-02-14,Health products,8,3,0
+2021-02-21,Disasters,1,0,0
+2021-02-21,Finance & stocks,0,1,0
+2021-02-21,Government policy & news,6,1,2
+2021-02-21,Health products,7,1,1
+2021-02-21,Other news,1,0,0
+2021-02-28,Disasters,1,0,0
+2021-02-28,Government policy & news,3,2,3
+2021-02-28,Health products,5,3,0
+2021-02-28,Other news,1,0,2
+2021-02-28,Public order & security,1,0,0
+2021-03-07,Finance & stocks,1,0,0
+2021-03-07,Government policy & news,4,3,4
+2021-03-07,Health products,6,0,0
+2021-03-07,Other news,3,0,0
+2021-03-07,Public order & security,1,0,0
+2021-03-14,Economy,0,1,0
+2021-03-14,Finance & stocks,1,2,1
+2021-03-14,Government policy & news,2,0,4
+2021-03-14,Health products,10,1,0
+2021-03-14,Other news,1,1,0
+2021-03-21,Disasters,1,0,0
+2021-03-21,Finance & stocks,1,2,0
+2021-03-21,Government policy & news,4,2,2
+2021-03-21,Health products,9,0,0
+2021-03-21,Public order & security,1,0,0
+2021-03-28,Finance & stocks,1,2,0
+2021-03-28,Government policy & news,1,3,2
+2021-03-28,Health products,11,0,0
+2021-03-28,Other news,0,1,0
+2021-03-28,Public order & security,1,0,0
+2021-04-04,Disasters,0,1,0
+2021-04-04,Finance & stocks,4,1,0
+2021-04-04,Government policy & news,3,1,3
+2021-04-04,Health products,7,1,0
+2021-04-04,Public order & security,1,0,0
+2021-04-11,Disasters,0,1,0
+2021-04-11,Finance & stocks,1,5,0
+2021-04-11,Government policy & news,1,0,2
+2021-04-11,Health products,8,1,0
+2021-04-11,Other news,1,0,0
+2021-04-11,Public order & security,1,0,0
+2021-04-18,Disasters,1,0,0
+2021-04-18,Finance & stocks,2,0,0
+2021-04-18,Government policy & news,3,3,2
+2021-04-18,Health products,7,0,1
+2021-04-18,Other news,3,0,0
+2021-04-18,Public order & security,0,1,0
+2021-04-25,Disasters,1,0,0
+2021-04-25,Finance & stocks,0,1,0
+2021-04-25,Government policy & news,5,1,1
+2021-04-25,Health products,11,1,1
+2021-05-02,Finance & stocks,2,1,0
+2021-05-02,Government policy & news,10,1,1
+2021-05-02,Health products,8,0,0
+2021-05-02,Public order & security,1,0,0
+2021-05-09,Finance & stocks,5,0,1
+2021-05-09,Government policy & news,4,1,2
+2021-05-09,Health products,12,3,0
+2021-05-09,Other news,1,0,0
+2021-05-16,Finance & stocks,4,0,0
+2021-05-16,Government policy & news,2,0,3
+2021-05-16,Health products,11,0,0
+2021-05-16,Other news,1,0,0
+2021-05-16,Public order & security,1,0,0
+2021-05-23,Finance & stocks,4,0,0
+2021-05-23,Government policy & news,4,0,2
+2021-05-23,Health products,9,0,1
+2021-05-23,Public order & security,3,0,0
+2021-05-30,Finance & stocks,0,1,0
+2021-05-30,Government policy & news,4,2,0
+2021-05-30,Health products,12,1,0
+2021-05-30,Public order & security,2,0,0
+2021-06-06,Disasters,1,0,0
+2021-06-06,Finance & stocks,3,0,0
+2021-06-06,Government policy & news,4,2,2
+2021-06-06,Health products,5,0,0
+2021-06-06,Other news,0,0,1
+2021-06-06,Public order & security,3,0,0
+2021-06-13,Government policy & news,7,2,2
+2021-06-13,Health products,11,0,0
+2021-06-20,Finance & stocks,2,2,0
+2021-06-20,Government policy & news,4,2,1
+2021-06-20,Health products,6,0,0
+2021-06-20,Other news,2,0,0
+2021-06-20,Public order & security,2,0,0
+2021-06-27,Disasters,1,0,0
+2021-06-27,Economy,1,0,0
+2021-06-27,Finance & stocks,1,0,0
+2021-06-27,Government policy & news,5,4,1
+2021-06-27,Health products,5,1,0
+2021-06-27,Other news,1,0,0
+2021-06-27,Public order & security,1,0,0
+2021-07-04,Disasters,1,1,0
+2021-07-04,Government policy & news,3,2,0
+2021-07-04,Health products,10,0,0
+2021-07-04,Public order & security,4,0,0
+2021-07-11,Finance & stocks,1,0,0
+2021-07-11,Government policy & news,2,5,2
+2021-07-11,Health products,7,2,0
+2021-07-11,Public order & security,3,0,0
+2021-07-18,Disasters,1,0,0
+2021-07-18,Finance & stocks,1,0,0
+2021-07-18,Government policy & news,8,0,2
+2021-07-18,Health products,4,2,1
+2021-07-18,Public order & security,2,1,0
+2021-07-25,Disasters,1,1,0
+2021-07-25,Finance & stocks,1,0,0
+2021-07-25,Government policy & news,6,4,0
+2021-07-25,Health products,7,0,0
+2021-07-25,Other news,0,1,0
+2021-07-25,Public order & security,3,0,0
+2021-08-01,Finance & stocks,1,1,0
+2021-08-01,Government policy & news,6,0,1
+2021-08-01,Health products,9,1,1
+2021-08-01,Public order & security,2,0,0
+2021-08-08,Disasters,1,0,0
+2021-08-08,Finance & stocks,1,2,0
+2021-08-08,Government policy & news,3,2,1
+2021-08-08,Health products,8,0,0
+2021-08-08,Other news,1,1,0
+2021-08-08,Public order & security,3,0,0
+2021-08-15,Disasters,3,0,0
+2021-08-15,Finance & stocks,2,0,0
+2021-08-15,Government policy & news,5,0,2
+2021-08-15,Health products,7,1,0
+2021-08-15,Other news,1,0,0
+2021-08-15,Public order & security,2,0,0
+2021-08-22,Finance & stocks,3,1,0
+2021-08-22,Government policy & news,3,2,6
+2021-08-22,Health products,8,2,0
+2021-08-22,Other news,1,0,0
+2021-08-22,Public order & security,2,0,0
+2021-08-29,Disasters,2,0,1
+2021-08-29,Finance & stocks,3,1,0
+2021-08-29,Government policy & news,4,2,4
+2021-08-29,Health products,4,0,1
+2021-08-29,Other news,1,0,0
+2021-08-29,Public order & security,2,1,0
+2021-09-05,Disasters,0,1,1
+2021-09-05,Finance & stocks,5,0,0
+2021-09-05,Government policy & news,3,1,2
+2021-09-05,Health products,5,1,1
+2021-09-05,Public order & security,6,0,0
+2021-09-12,Disasters,0,3,0
+2021-09-12,Finance & stocks,2,0,0
+2021-09-12,Government policy & news,1,1,4
+2021-09-12,Health products,9,0,3
+2021-09-12,Other news,1,1,0
+2021-09-12,Public order & security,3,1,0
+2021-09-19,Disasters,2,0,0
+2021-09-19,Finance & stocks,1,3,1
+2021-09-19,Government policy & news,1,3,4
+2021-09-19,Health products,7,2,2
+2021-09-19,Other news,1,0,0
+2021-09-19,Public order & security,2,1,0
+2021-09-26,Disasters,1,2,0
+2021-09-26,Finance & stocks,2,2,0
+2021-09-26,Government policy & news,3,0,5
+2021-09-26,Health products,8,0,1
+2021-09-26,Public order & security,3,0,0
+2021-10-03,Disasters,1,2,0
+2021-10-03,Finance & stocks,1,2,1
+2021-10-03,Government policy & news,3,0,8
+2021-10-03,Health products,9,0,1
+2021-10-03,Public order & security,4,0,0
+2021-10-10,Disasters,1,1,0
+2021-10-10,Finance & stocks,3,1,0
+2021-10-10,Government policy & news,1,1,13
+2021-10-10,Health products,6,1,1
+2021-10-10,Other news,2,0,0
+2021-10-10,Public order & security,4,0,0
+2021-10-17,Disasters,0,0,2
+2021-10-17,Economy,0,1,0
+2021-10-17,Finance & stocks,7,0,2
+2021-10-17,Government policy & news,1,2,9
+2021-10-17,Health products,5,1,2
+2021-10-17,Other news,1,1,0
+2021-10-17,Public order & security,2,0,0
+2021-10-24,Disasters,2,0,0
+2021-10-24,Finance & stocks,3,0,1
+2021-10-24,Government policy & news,3,0,11
+2021-10-24,Health products,7,0,1
+2021-10-24,Other news,3,0,0
+2021-10-24,Public order & security,3,1,0
+2021-10-31,Disasters,1,0,0
+2021-10-31,Finance & stocks,2,1,0
+2021-10-31,Government policy & news,0,1,10
+2021-10-31,Health products,5,2,4
+2021-10-31,Other news,1,1,0
+2021-10-31,Public order & security,6,1,0
+2021-11-07,Disasters,1,0,0
+2021-11-07,Economy,3,0,0
+2021-11-07,Finance & stocks,1,0,0
+2021-11-07,Government policy & news,0,3,10
+2021-11-07,Health products,11,0,4
+2021-11-07,Other news,1,0,0
+2021-11-07,Public order & security,1,0,0
+2021-11-14,Disasters,1,0,0
+2021-11-14,Finance & stocks,4,0,0
+2021-11-14,Government policy & news,2,3,11
+2021-11-14,Health products,4,3,3
+2021-11-14,Public order & security,2,0,0
+2021-11-21,Finance & stocks,2,0,0
+2021-11-21,Government policy & news,3,0,11
+2021-11-21,Health products,10,0,2
+2021-11-21,Other news,2,0,1
+2021-11-21,Public order & security,5,1,0
+2021-11-28,Finance & stocks,4,0,0
+2021-11-28,Government policy & news,2,0,13
+2021-11-28,Health products,10,1,1
+2021-11-28,Other news,0,1,0
+2021-11-28,Public order & security,3,0,0
+2021-12-05,Disasters,1,0,0
+2021-12-05,Finance & stocks,2,0,0
+2021-12-05,Government policy & news,0,1,10
+2021-12-05,Health products,10,1,2
+2021-12-05,Other news,1,0,0
+2021-12-05,Public order & security,4,0,0
+2021-12-12,Disasters,2,1,0
+2021-12-12,Finance & stocks,3,0,0
+2021-12-12,Government policy & news,4,1,12
+2021-12-12,Health products,8,1,3
+2021-12-12,Public order & security,1,0,0
+2021-12-19,Government policy & news,6,2,12
+2021-12-19,Health products,9,3,1
+2021-12-19,Public order & security,1,0,0
+2021-12-26,Disasters,1,0,0
+2021-12-26,Finance & stocks,3,0,1
+2021-12-26,Government policy & news,1,0,14
+2021-12-26,Health products,12,2,1
+2021-12-26,Public order & security,6,0,0
+2022-01-02,Disasters,0,1,0
+2022-01-02,Economy,1,0,0
+2022-01-02,Finance & stocks,2,0,0
+2022-01-02,Government policy & news,0,0,10
+2022-01-02,Health products,9,0,4
+2022-01-02,Public order & security,7,1,0
+2022-01-09,Finance & stocks,2,0,0
+2022-01-09,Government policy & news,5,0,11
+2022-01-09,Health products,10,2,3
+2022-01-09,Public order & security,3,0,0
+2022-01-16,Disasters,1,0,0
+2022-01-16,Finance & stocks,6,0,0
+2022-01-16,Government policy & news,2,2,13
+2022-01-16,Health products,7,3,1
+2022-01-16,Public order & security,0,0,1
+2022-01-23,Disasters,1,0,0
+2022-01-23,Finance & stocks,5,0,1
+2022-01-23,Government policy & news,4,1,12
+2022-01-23,Health products,9,0,1
+2022-01-23,Public order & security,1,0,0
+2022-01-30,Disasters,0,0,2
+2022-01-30,Finance & stocks,2,0,0
+2022-01-30,Government policy & news,7,2,8
+2022-01-30,Health products,7,1,3
+2022-01-30,Public order & security,3,0,0
+2022-02-06,Disasters,1,0,0
+2022-02-06,Finance & stocks,3,0,0
+2022-02-06,Government policy & news,6,3,11
+2022-02-06,Health products,7,5,5
+2022-02-06,Public order & security,1,0,0
+2022-02-13,Disasters,1,0,0
+2022-02-13,Economy,1,0,0
+2022-02-13,Finance & stocks,6,0,1
+2022-02-13,Government policy & news,8,2,8
+2022-02-13,Health products,7,0,7
+2022-02-13,Public order & security,1,0,0
+2022-02-20,Disasters,0,0,1
+2022-02-20,Finance & stocks,3,0,0
+2022-02-20,Government policy & news,5,1,14
+2022-02-20,Health products,13,2,3
+2022-02-27,Disasters,2,0,0
+2022-02-27,Finance & stocks,3,0,1
+2022-02-27,Government policy & news,8,0,9
+2022-02-27,Health products,12,0,5
+2022-03-06,Finance & stocks,5,0,1
+2022-03-06,Government policy & news,4,2,10
+2022-03-06,Health products,15,2,3
+2022-03-13,Disasters,0,0,1
+2022-03-13,Finance & stocks,3,0,1
+2022-03-13,Government policy & news,5,2,12
+2022-03-13,Health products,12,3,0
+2022-03-13,Public order & security,0,1,0
+2022-03-20,Finance & stocks,1,1,0
+2022-03-20,Government policy & news,9,2,12
+2022-03-20,Health products,13,3,2
+2022-03-27,Disasters,1,0,1
+2022-03-27,Finance & stocks,4,0,4
+2022-03-27,Government policy & news,4,1,11
+2022-03-27,Health products,10,6,0
+2022-04-03,Disasters,2,0,0
+2022-04-03,Finance & stocks,4,1,2
+2022-04-03,Government policy & news,7,0,11
+2022-04-03,Health products,12,1,1
+2022-04-10,Disasters,0,0,2
+2022-04-10,Finance & stocks,4,0,0
+2022-04-10,Government policy & news,8,2,10
+2022-04-10,Health products,13,0,3
+2022-04-17,Finance & stocks,5,0,1
+2022-04-17,Government policy & news,8,0,12
+2022-04-17,Health products,14,1,1
+2022-04-24,Disasters,0,0,1
+2022-04-24,Finance & stocks,4,0,0
+2022-04-24,Government policy & news,5,3,12
+2022-04-24,Health products,13,1,1
+2022-04-24,Public order & security,0,1,0
+2022-05-01,Disasters,1,0,0
+2022-05-01,Finance & stocks,0,0,1
+2022-05-01,Government policy & news,8,0,10
+2022-05-01,Health products,17,2,3
+2022-05-08,Disasters,4,0,0
+2022-05-08,Finance & stocks,3,0,1
+2022-05-08,Government policy & news,5,0,13
+2022-05-08,Health products,7,5,0
+2022-05-08,Public order & security,4,0,0
+2022-05-15,Disasters,1,0,1
+2022-05-15,Finance & stocks,5,1,0
+2022-05-15,Government policy & news,2,1,10
+2022-05-15,Health products,9,7,3
+2022-05-15,Public order & security,1,0,0
+2022-05-22,Disasters,2,0,1
+2022-05-22,Finance & stocks,6,0,1
+2022-05-22,Government policy & news,5,1,10
+2022-05-22,Health products,13,2,2
+2022-05-29,Disasters,1,0,1
+2022-05-29,Finance & stocks,7,0,1
+2022-05-29,Government policy & news,7,3,11
+2022-05-29,Health products,9,1,1
+2022-06-05,Economy,0,0,1
+2022-06-05,Finance & stocks,6,0,0
+2022-06-05,Government policy & news,7,2,13
+2022-06-05,Health products,12,1,0
+2022-06-12,Disasters,2,1,0
+2022-06-12,Economy,1,0,0
+2022-06-12,Finance & stocks,5,0,0
+2022-06-12,Government policy & news,5,2,14
+2022-06-12,Health products,11,1,0
+2022-06-19,Disasters,1,0,0
+2022-06-19,Finance & stocks,5,0,0
+2022-06-19,Government policy & news,6,1,9
+2022-06-19,Health products,18,0,0
+2022-06-19,Public order & security,2,0,0
+2022-06-26,Finance & stocks,9,0,2
+2022-06-26,Government policy & news,2,0,8
+2022-06-26,Health products,18,1,0
+2022-06-26,Public order & security,1,0,0
+2022-07-03,Disasters,1,0,0
+2022-07-03,Finance & stocks,8,0,0
+2022-07-03,Government policy & news,6,0,8
+2022-07-03,Health products,13,0,0
+2022-07-03,Public order & security,6,0,0
+2022-07-10,Disasters,4,0,0
+2022-07-10,Finance & stocks,2,0,0
+2022-07-10,Government policy & news,12,0,8
+2022-07-10,Health products,13,1,0
+2022-07-10,Public order & security,3,0,0
+2022-07-17,Disasters,0,0,1
+2022-07-17,Finance & stocks,8,0,0
+2022-07-17,Government policy & news,7,0,6
+2022-07-17,Health products,16,2,1
+2022-07-17,Public order & security,1,0,0
+2022-07-24,Disasters,8,0,0
+2022-07-24,Finance & stocks,8,0,0
+2022-07-24,Government policy & news,4,0,8
+2022-07-24,Health products,12,1,0
+2022-07-31,Disasters,4,0,0
+2022-07-31,Finance & stocks,13,0,0
+2022-07-31,Government policy & news,6,0,5
+2022-07-31,Health products,9,3,2
+2022-08-07,Disasters,0,0,1
+2022-08-07,Finance & stocks,15,0,0
+2022-08-07,Government policy & news,8,0,8
+2022-08-07,Health products,9,1,0
+2022-08-14,Disasters,2,0,0
+2022-08-14,Finance & stocks,22,0,0
+2022-08-14,Government policy & news,2,0,7
+2022-08-14,Health products,7,2,0
+2022-08-21,Disasters,2,0,1
+2022-08-21,Finance & stocks,18,0,2
+2022-08-21,Government policy & news,4,2,5
+2022-08-21,Health products,8,0,0
+2022-08-28,Finance & stocks,16,0,0
+2022-08-28,Government policy & news,5,2,6
+2022-08-28,Health products,11,1,1
+2022-09-04,Disasters,1,1,0
+2022-09-04,Finance & stocks,18,0,0
+2022-09-04,Government policy & news,5,0,7
+2022-09-04,Health products,7,3,0
+2022-09-11,Disasters,4,1,1
+2022-09-11,Finance & stocks,12,0,1
+2022-09-11,Government policy & news,6,0,5
+2022-09-11,Health products,8,3,1
+2022-09-18,Disasters,5,1,0
+2022-09-18,Finance & stocks,5,0,1
+2022-09-18,Government policy & news,3,1,7
+2022-09-18,Health products,16,3,0
+2022-09-25,Disasters,0,0,1
+2022-09-25,Finance & stocks,4,0,0
+2022-09-25,Government policy & news,9,3,8
+2022-09-25,Health products,13,4,0
+2022-10-02,Disasters,2,1,1
+2022-10-02,Finance & stocks,8,0,0
+2022-10-02,Government policy & news,2,1,6
+2022-10-02,Health products,20,1,0
+2022-10-09,Disasters,2,1,0
+2022-10-09,Finance & stocks,14,0,1
+2022-10-09,Government policy & news,2,0,7
+2022-10-09,Health products,14,1,0
+2022-10-16,Disasters,3,0,0
+2022-10-16,Finance & stocks,11,0,0
+2022-10-16,Government policy & news,7,0,6
+2022-10-16,Health products,13,0,1
+2022-10-16,Public order & security,1,0,0
+2022-10-23,Disasters,1,0,1
+2022-10-23,Finance & stocks,12,0,1
+2022-10-23,Government policy & news,9,0,5
+2022-10-23,Health products,12,0,1
+2022-10-30,Disasters,1,0,0
+2022-10-30,Finance & stocks,10,0,0
+2022-10-30,Government policy & news,9,0,7
+2022-10-30,Health products,15,0,0
+2022-11-06,Finance & stocks,12,0,0
+2022-11-06,Government policy & news,10,0,9
+2022-11-06,Health products,12,0,0
+2022-11-13,Finance & stocks,10,0,1
+2022-11-13,Government policy & news,6,1,7
+2022-11-13,Health products,22,0,0
+2022-11-13,Public order & security,1,0,0
+2022-11-20,Disasters,1,0,1
+2022-11-20,Finance & stocks,8,0,1
+2022-11-20,Government policy & news,13,0,7
+2022-11-20,Health products,18,0,0
+2022-11-27,Disasters,3,0,0
+2022-11-27,Finance & stocks,7,0,0
+2022-11-27,Government policy & news,16,0,7
+2022-11-27,Health products,13,0,2
+2022-11-27,Public order & security,1,0,0
+2022-12-04,Disasters,2,0,0
+2022-12-04,Finance & stocks,7,0,0
+2022-12-04,Government policy & news,11,0,10
+2022-12-04,Health products,18,1,0
+2022-12-11,Disasters,1,0,0
+2022-12-11,Finance & stocks,9,0,0
+2022-12-11,Government policy & news,11,0,8
+2022-12-11,Health products,19,0,1
+2022-12-18,Disasters,6,0,0
+2022-12-18,Finance & stocks,7,0,0
+2022-12-18,Government policy & news,6,0,10
+2022-12-18,Health products,20,0,0
+2022-12-25,Disasters,2,0,0
+2022-12-25,Finance & stocks,8,0,0
+2022-12-25,Government policy & news,10,0,11
+2022-12-25,Health products,20,0,0
+2023-01-01,Disasters,3,0,0
+2023-01-01,Finance & stocks,8,0,2
+2023-01-01,Government policy & news,9,0,8
+2023-01-01,Health products,20,0,0
+2023-01-08,Disasters,4,0,0
+2023-01-08,Finance & stocks,9,0,0
+2023-01-08,Government policy & news,7,0,10
+2023-01-08,Health products,18,0,0
+2023-01-08,Public order & security,1,0,0
+2023-01-15,Disasters,3,0,0
+2023-01-15,Finance & stocks,12,0,0
+2023-01-15,Government policy & news,12,0,9
+2023-01-15,Health products,12,0,0
+2023-01-15,Public order & security,1,0,0
+2023-01-22,Disasters,3,0,0
+2023-01-22,Finance & stocks,13,0,0
+2023-01-22,Government policy & news,10,0,11
+2023-01-22,Health products,12,0,0
+2023-01-29,Disasters,3,0,0
+2023-01-29,Finance & stocks,7,0,0
+2023-01-29,Government policy & news,14,0,10
+2023-01-29,Health products,14,0,0
+2023-02-05,Disasters,1,0,0
+2023-02-05,Finance & stocks,11,0,0
+2023-02-05,Government policy & news,12,0,6
+2023-02-05,Health products,14,2,3
+2023-02-12,Disasters,1,0,0
+2023-02-12,Finance & stocks,6,0,0
+2023-02-12,Government policy & news,14,1,8
+2023-02-12,Health products,19,0,1
+2023-02-19,Disasters,3,0,0
+2023-02-19,Finance & stocks,11,0,0
+2023-02-19,Government policy & news,15,0,7
+2023-02-19,Health products,12,0,1
+2023-02-26,Disasters,4,0,0
+2023-02-26,Finance & stocks,12,0,0
+2023-02-26,Government policy & news,9,0,8
+2023-02-26,Health products,17,0,1
+2023-03-05,Disasters,4,0,0
+2023-03-05,Finance & stocks,10,0,0
+2023-03-05,Government policy & news,14,0,8
+2023-03-05,Health products,14,0,1
+2023-03-12,Disasters,3,0,0
+2023-03-12,Finance & stocks,9,0,0
+2023-03-12,Government policy & news,15,0,8
+2023-03-12,Health products,14,0,0
+2023-03-19,Finance & stocks,7,0,0
+2023-03-19,Government policy & news,18,0,9
+2023-03-19,Health products,15,0,0
+2023-03-26,Disasters,1,0,0
+2023-03-26,Finance & stocks,5,0,0
+2023-03-26,Government policy & news,14,0,8
+2023-03-26,Health products,19,0,0
+2023-04-02,Disasters,4,0,0
+2023-04-02,Finance & stocks,7,0,0
+2023-04-02,Government policy & news,20,0,8
+2023-04-02,Health products,11,0,0
+2023-04-09,Disasters,1,0,0
+2023-04-09,Finance & stocks,6,0,1
+2023-04-09,Government policy & news,13,1,8
+2023-04-09,Health products,19,0,0
+2023-04-16,Disasters,2,0,0
+2023-04-16,Finance & stocks,12,0,0
+2023-04-16,Government policy & news,14,0,8
+2023-04-16,Health products,14,0,0
+2023-04-23,Disasters,2,1,2
+2023-04-23,Finance & stocks,9,0,0
+2023-04-23,Government policy & news,19,0,6
+2023-04-23,Health products,12,0,0
+2023-04-30,Finance & stocks,10,0,0
+2023-04-30,Government policy & news,15,0,9
+2023-04-30,Health products,15,0,0
+2023-05-07,Disasters,1,0,0
+2023-05-07,Finance & stocks,8,0,0
+2023-05-07,Government policy & news,18,0,7
+2023-05-07,Health products,13,0,2
+2023-05-14,Disasters,2,0,0
+2023-05-14,Finance & stocks,9,0,1
+2023-05-14,Government policy & news,15,0,5
+2023-05-14,Health products,14,0,2
+2023-05-14,Public order & security,1,0,0
+2023-05-21,Finance & stocks,14,0,2
+2023-05-21,Government policy & news,13,0,8
+2023-05-21,Health products,12,0,0
+2023-05-28,Disasters,3,0,0
+2023-05-28,Finance & stocks,8,0,0
+2023-05-28,Government policy & news,16,0,10
+2023-05-28,Health products,11,0,1
+2023-06-04,Disasters,3,0,0
+2023-06-04,Finance & stocks,7,0,0
+2023-06-04,Government policy & news,12,0,9
+2023-06-04,Health products,17,0,0
+2023-06-04,Public order & security,1,0,0
+2023-06-11,Disasters,1,0,0
+2023-06-11,Finance & stocks,13,0,0
+2023-06-11,Government policy & news,12,0,9
+2023-06-11,Health products,14,0,0
+2023-06-18,Disasters,2,1,0
+2023-06-18,Finance & stocks,12,0,0
+2023-06-18,Government policy & news,18,0,8
+2023-06-18,Health products,8,0,0
+2023-06-25,Disasters,0,0,1
+2023-06-25,Finance & stocks,13,0,0
+2023-06-25,Government policy & news,15,0,9
+2023-06-25,Health products,8,0,0
+2023-06-25,Public order & security,1,0,0
+2023-07-02,Disasters,1,0,2
+2023-07-02,Finance & stocks,14,0,0
+2023-07-02,Government policy & news,11,0,5
+2023-07-02,Health products,15,0,0
+2023-07-09,Disasters,2,0,0
+2023-07-09,Finance & stocks,14,0,0
+2023-07-09,Government policy & news,11,0,7
+2023-07-09,Health products,15,0,1
+2023-07-16,Disasters,5,0,0
+2023-07-16,Finance & stocks,8,0,0
+2023-07-16,Government policy & news,18,0,9
+2023-07-16,Health products,9,0,0
+2023-07-23,Disasters,2,0,0
+2023-07-23,Finance & stocks,13,0,0
+2023-07-23,Government policy & news,10,0,9
+2023-07-23,Health products,13,0,0
+2023-07-23,Public order & security,1,0,0
+2023-07-30,Disasters,0,0,1
+2023-07-30,Finance & stocks,9,0,0
+2023-07-30,Government policy & news,19,0,6
+2023-07-30,Health products,12,0,2
+2023-08-06,Disasters,1,0,0
+2023-08-06,Finance & stocks,16,0,0
+2023-08-06,Government policy & news,10,0,9
+2023-08-06,Health products,14,0,0
+2023-08-13,Disasters,1,0,2
+2023-08-13,Finance & stocks,16,0,0
+2023-08-13,Government policy & news,12,0,6
+2023-08-13,Health products,11,0,1
+2023-08-20,Disasters,2,0,0
+2023-08-20,Finance & stocks,17,0,0
+2023-08-20,Government policy & news,11,0,9
+2023-08-20,Health products,12,0,0
+2023-08-27,Disasters,2,0,0
+2023-08-27,Finance & stocks,17,0,0
+2023-08-27,Government policy & news,8,0,7
+2023-08-27,Health products,12,0,1
+2023-09-03,Disasters,1,0,0
+2023-09-03,Finance & stocks,20,0,0
+2023-09-03,Government policy & news,13,0,8
+2023-09-03,Health products,8,0,1
+2023-09-10,Disasters,1,0,0
+2023-09-10,Finance & stocks,13,0,1
+2023-09-10,Government policy & news,13,0,8
+2023-09-10,Health products,12,0,1
+2023-09-17,Finance & stocks,12,0,0
+2023-09-17,Government policy & news,15,0,9
+2023-09-17,Health products,12,0,0
+2023-09-24,Disasters,2,0,0
+2023-09-24,Finance & stocks,14,0,0
+2023-09-24,Government policy & news,11,0,8
+2023-09-24,Health products,13,0,1
+2023-10-01,Disasters,2,0,2
+2023-10-01,Finance & stocks,16,0,2
+2023-10-01,Government policy & news,12,0,5
+2023-10-01,Health products,11,0,0
+2023-10-08,Disasters,1,0,1
+2023-10-08,Finance & stocks,15,0,1
+2023-10-08,Government policy & news,14,0,7
+2023-10-08,Health products,11,0,0
+2023-10-15,Finance & stocks,18,0,2
+2023-10-15,Government policy & news,16,0,5
+2023-10-15,Health products,7,0,1
+2023-10-22,Finance & stocks,17,0,1
+2023-10-22,Government policy & news,12,0,9
+2023-10-22,Health products,8,0,1
+2023-10-29,Finance & stocks,20,0,0
+2023-10-29,Government policy & news,5,0,7
+2023-10-29,Health products,16,0,0
+2023-11-05,Finance & stocks,15,0,1
+2023-11-05,Government policy & news,11,0,7
+2023-11-05,Health products,13,0,1
+2023-11-12,Finance & stocks,20,0,0
+2023-11-12,Government policy & news,10,0,9
+2023-11-12,Health products,10,0,1
+2023-11-19,Finance & stocks,18,0,0
+2023-11-19,Government policy & news,8,0,9
+2023-11-19,Health products,14,0,0
+2023-11-26,Finance & stocks,12,0,0
+2023-11-26,Government policy & news,11,0,6
+2023-11-26,Health products,7,6,0
+2023-12-03,Finance & stocks,7,0,0
+2023-12-03,Government policy & news,8,0,6
+2023-12-03,Health products,6,3,0
+2023-12-03,Other news,2,1,2
+2023-12-10,Finance & stocks,9,0,0
+2023-12-10,Government policy & news,10,0,7
+2023-12-10,Health products,3,6,0
+2023-12-17,Finance & stocks,11,0,0
+2023-12-17,Government policy & news,1,0,8
+2023-12-17,Health products,5,8,0
+2023-12-17,Other news,1,0,1
+2023-12-24,Finance & stocks,5,1,1
+2023-12-24,Government policy & news,5,0,8
+2023-12-24,Health products,9,6,0
+2023-12-31,Finance & stocks,10,0,2
+2023-12-31,Government policy & news,4,0,5
+2023-12-31,Health products,5,6,0
+2023-12-31,Other news,2,0,0
+2024-01-07,Finance & stocks,14,0,1
+2024-01-07,Government policy & news,8,0,6
+2024-01-07,Health products,3,3,0
+2024-01-14,Finance & stocks,13,0,0
+2024-01-14,Government policy & news,8,1,6
+2024-01-14,Health products,4,1,0
+2024-01-14,Other news,2,0,0
+2024-01-21,Finance & stocks,11,0,0
+2024-01-21,Government policy & news,10,1,2
+2024-01-21,Health products,7,3,1
+2024-01-28,Finance & stocks,15,1,0
+2024-01-28,Government policy & news,6,1,4
+2024-01-28,Health products,5,3,0
+2024-02-04,Finance & stocks,14,0,0
+2024-02-04,Government policy & news,6,0,5
+2024-02-04,Health products,5,2,1
+2024-02-04,Other news,1,0,0
+2024-02-11,Finance & stocks,17,0,1
+2024-02-11,Government policy & news,6,1,7
+2024-02-11,Health products,8,0,0
+2024-02-11,Other news,2,0,1
+2024-02-18,Disasters,2,0,2
+2024-02-18,Finance & stocks,17,0,0
+2024-02-18,Government policy & news,5,2,4
+2024-02-18,Health products,12,2,2
+2024-02-18,Other news,1,0,0
+2024-02-25,Disasters,1,0,0
+2024-02-25,Finance & stocks,13,0,0
+2024-02-25,Government policy & news,10,1,8
+2024-02-25,Health products,13,1,1
+2024-02-25,Other news,0,0,1
+2024-03-03,Finance & stocks,13,0,0
+2024-03-03,Government policy & news,12,1,8
+2024-03-03,Health products,11,1,2
+2024-03-10,Disasters,0,1,1
+2024-03-10,Finance & stocks,8,1,2
+2024-03-10,Government policy & news,12,2,8
+2024-03-10,Health products,8,1,4
+2024-03-10,Other news,1,0,0
+2024-03-17,Finance & stocks,5,0,1
+2024-03-17,Government policy & news,21,0,7
+2024-03-17,Health products,8,1,5
+2024-03-17,Other news,1,0,0
+2024-03-24,Disasters,1,2,1
+2024-03-24,Finance & stocks,9,1,1
+2024-03-24,Government policy & news,5,2,11
+2024-03-24,Health products,14,1,1
+2024-03-31,Disasters,1,0,0
+2024-03-31,Finance & stocks,7,0,2
+2024-03-31,Government policy & news,16,1,10
+2024-03-31,Health products,10,2,0
+2024-04-07,Finance & stocks,10,0,2
+2024-04-07,Government policy & news,13,2,7
+2024-04-07,Health products,11,1,2
+2024-04-07,Other news,1,0,0
+2024-04-14,Disasters,0,1,0
+2024-04-14,Finance & stocks,7,1,2
+2024-04-14,Government policy & news,11,1,7
+2024-04-14,Health products,19,0,0
+2024-04-21,Finance & stocks,10,1,1
+2024-04-21,Government policy & news,15,1,7
+2024-04-21,Health products,13,0,0
+2024-04-21,Other news,1,0,0
+2024-04-28,Disasters,2,0,1
+2024-04-28,Finance & stocks,9,0,0
+2024-04-28,Government policy & news,17,0,7
+2024-04-28,Health products,11,0,2
+2024-05-05,Disasters,0,0,1
+2024-05-05,Finance & stocks,16,0,0
+2024-05-05,Government policy & news,12,2,7
+2024-05-05,Health products,8,0,2
+2024-05-12,Disasters,1,0,3
+2024-05-12,Finance & stocks,11,0,0
+2024-05-12,Government policy & news,14,4,5
+2024-05-12,Health products,9,1,1
+2024-05-19,Disasters,0,0,2
+2024-05-19,Finance & stocks,18,0,0
+2024-05-19,Government policy & news,13,1,10
+2024-05-19,Health products,3,1,1
+2024-05-26,Disasters,0,1,0
+2024-05-26,Finance & stocks,10,0,4
+2024-05-26,Government policy & news,13,1,6
+2024-05-26,Health products,7,3,3
+2024-06-02,Disasters,0,0,2
+2024-06-02,Finance & stocks,12,0,0
+2024-06-02,Government policy & news,12,1,11
+2024-06-02,Health products,10,0,0
+2024-06-09,Finance & stocks,13,0,0
+2024-06-09,Government policy & news,15,0,12
+2024-06-09,Health products,8,2,1
+2024-06-16,Finance & stocks,15,0,1
+2024-06-16,Government policy & news,12,2,14
+2024-06-16,Health products,2,2,0
+2024-06-23,Disasters,1,0,0
+2024-06-23,Finance & stocks,15,0,0
+2024-06-23,Government policy & news,14,1,11
+2024-06-23,Health products,3,3,1
+2024-06-30,Finance & stocks,13,0,2
+2024-06-30,Government policy & news,11,1,12
+2024-06-30,Health products,7,3,0
+2024-07-07,Disasters,1,0,1
+2024-07-07,Finance & stocks,13,0,0
+2024-07-07,Government policy & news,16,2,10
+2024-07-07,Health products,5,1,0
+2024-07-14,Finance & stocks,8,0,1
+2024-07-14,Government policy & news,19,1,14
+2024-07-14,Health products,5,1,0
+2024-07-21,Finance & stocks,4,0,0
+2024-07-21,Government policy & news,22,0,11
+2024-07-21,Health products,6,4,0
+2024-07-21,Public order & security,1,0,0
+2024-07-28,Finance & stocks,6,0,0
+2024-07-28,Government policy & news,20,2,14
+2024-07-28,Health products,4,1,1
+2024-08-04,Disasters,0,0,2
+2024-08-04,Finance & stocks,5,0,0
+2024-08-04,Government policy & news,17,5,9
+2024-08-04,Health products,6,0,3
+2024-08-11,Finance & stocks,3,1,0
+2024-08-11,Government policy & news,26,2,12
+2024-08-11,Health products,3,1,1
+2024-08-18,Disasters,0,0,2
+2024-08-18,Finance & stocks,4,0,0
+2024-08-18,Government policy & news,23,1,8
+2024-08-18,Health products,7,3,1
+2024-08-25,Disasters,3,1,0
+2024-08-25,Finance & stocks,4,0,0
+2024-08-25,Government policy & news,13,4,8
+2024-08-25,Health products,12,1,2
+2024-09-01,Disasters,2,1,1
+2024-09-01,Finance & stocks,4,0,0
+2024-09-01,Government policy & news,18,2,9
+2024-09-01,Health products,6,4,1
+2024-09-08,Disasters,0,1,1
+2024-09-08,Finance & stocks,5,0,2
+2024-09-08,Government policy & news,17,5,3
+2024-09-08,Health products,9,1,4
+2024-09-15,Disasters,2,1,3
+2024-09-15,Finance & stocks,8,1,1
+2024-09-15,Government policy & news,15,3,7
+2024-09-15,Health products,6,0,2
+2024-09-22,Disasters,5,1,2
+2024-09-22,Finance & stocks,7,0,0
+2024-09-22,Government policy & news,14,0,9
+2024-09-22,Health products,9,2,0
+2024-09-29,Disasters,2,0,0
+2024-09-29,Finance & stocks,6,0,0
+2024-09-29,Government policy & news,20,1,11
+2024-09-29,Health products,2,1,4
+2024-10-06,Disasters,6,4,2
+2024-10-06,Finance & stocks,5,0,0
+2024-10-06,Government policy & news,12,1,13
+2024-10-06,Health products,3,2,1
+2024-10-13,Disasters,6,0,4
+2024-10-13,Finance & stocks,4,0,0
+2024-10-13,Government policy & news,21,2,5
+2024-10-13,Health products,3,1,2
+2024-10-20,Disasters,1,0,2
+2024-10-20,Finance & stocks,5,0,1
+2024-10-20,Government policy & news,25,2,7
+2024-10-20,Health products,4,0,2
+2024-10-27,Disasters,4,1,1
+2024-10-27,Finance & stocks,6,0,0
+2024-10-27,Government policy & news,26,0,7
+2024-10-27,Health products,2,1,1
+2024-11-03,Disasters,2,1,0
+2024-11-03,Finance & stocks,8,0,0
+2024-11-03,Government policy & news,21,1,8
+2024-11-03,Health products,2,5,0
+2024-11-10,Disasters,4,0,0
+2024-11-10,Finance & stocks,6,0,0
+2024-11-10,Government policy & news,20,3,5
+2024-11-10,Health products,5,5,1
+2024-11-17,Disasters,7,1,0
+2024-11-17,Finance & stocks,6,0,0
+2024-11-17,Government policy & news,16,1,10
+2024-11-17,Health products,4,2,1
+2024-11-24,Disasters,1,1,1
+2024-11-24,Finance & stocks,11,0,0
+2024-11-24,Government policy & news,18,5,9
+2024-11-24,Health products,2,1,2
+2024-12-01,Disasters,1,3,0
+2024-12-01,Finance & stocks,13,0,0
+2024-12-01,Government policy & news,16,0,12
+2024-12-01,Health products,5,1,0
+2024-12-08,Disasters,2,0,1
+2024-12-08,Finance & stocks,12,0,1
+2024-12-08,Government policy & news,18,1,7
+2024-12-08,Health products,4,1,2
+2024-12-15,Disasters,4,1,1
+2024-12-15,Finance & stocks,9,0,0
+2024-12-15,Government policy & news,12,1,9
+2024-12-15,Health products,7,4,3
+2024-12-22,Disasters,1,0,0
+2024-12-22,Finance & stocks,12,0,0
+2024-12-22,Government policy & news,14,1,11
+2024-12-22,Health products,5,5,0
+2024-12-29,Disasters,3,0,0
+2024-12-29,Finance & stocks,13,0,0
+2024-12-29,Government policy & news,11,1,7
+2024-12-29,Health products,4,3,6
+2025-01-05,Finance & stocks,12,0,1
+2025-01-05,Government policy & news,15,7,8
+2025-01-05,Health products,4,1,1
+2025-01-12,Disasters,4,0,1
+2025-01-12,Finance & stocks,12,0,0
+2025-01-12,Government policy & news,19,0,9
+2025-01-12,Health products,0,3,1
+2025-01-19,Disasters,2,0,2
+2025-01-19,Finance & stocks,16,0,0
+2025-01-19,Government policy & news,10,3,9
+2025-01-19,Health products,3,2,3
+2025-01-26,Disasters,1,2,0
+2025-01-26,Finance & stocks,16,0,0
+2025-01-26,Government policy & news,16,1,11
+2025-01-26,Health products,1,0,2
+2025-02-02,Disasters,0,3,0
+2025-02-02,Finance & stocks,14,0,1
+2025-02-02,Government policy & news,10,4,12
+2025-02-02,Health products,3,2,0
+2025-02-09,Finance & stocks,9,0,2
+2025-02-09,Government policy & news,11,3,7
+2025-02-09,Health products,5,3,8
+2025-02-09,Public order & security,0,1,0
+2025-02-16,Disasters,1,2,0
+2025-02-16,Finance & stocks,6,0,1
+2025-02-16,Government policy & news,13,3,12
+2025-02-16,Health products,5,2,1
+2025-02-16,Public order & security,1,0,0
+2025-02-23,Disasters,1,0,0
+2025-02-23,Finance & stocks,7,1,1
+2025-02-23,Government policy & news,11,4,8
+2025-02-23,Health products,5,5,4
+2025-02-23,Public order & security,1,1,0
+2025-03-02,Disasters,1,1,4
+2025-03-02,Finance & stocks,9,0,0
+2025-03-02,Government policy & news,16,4,11
+2025-03-02,Health products,0,2,3
+2025-03-09,Disasters,0,0,1
+2025-03-09,Finance & stocks,11,0,1
+2025-03-09,Government policy & news,13,2,16
+2025-03-09,Health products,0,3,1
+2025-03-09,Public order & security,0,1,0
+2025-03-16,Disasters,1,0,1
+2025-03-16,Finance & stocks,10,1,0
+2025-03-16,Government policy & news,14,3,11
+2025-03-16,Health products,1,3,4
+2025-03-23,Disasters,2,1,2
+2025-03-23,Finance & stocks,11,0,1
+2025-03-23,Government policy & news,13,2,10
+2025-03-23,Health products,0,4,1
+2025-03-23,Public order & security,1,1,1
+2025-03-30,Disasters,11,3,8
+2025-03-30,Finance & stocks,3,0,2
+2025-03-30,Government policy & news,13,4,6
+2025-03-30,Public order & security,1,0,0
+2025-04-06,Disasters,5,2,3
+2025-04-06,Finance & stocks,6,0,0
+2025-04-06,Government policy & news,12,5,10
+2025-04-06,Health products,4,0,2
+2025-04-13,Disasters,7,2,3
+2025-04-13,Finance & stocks,7,0,0
+2025-04-13,Government policy & news,12,1,7
+2025-04-13,Health products,1,6,3
+2025-04-20,Disasters,6,0,3
+2025-04-20,Finance & stocks,17,0,2
+2025-04-20,Government policy & news,12,1,7
+2025-04-20,Health products,0,1,0
+2025-04-27,Disasters,3,0,1
+2025-04-27,Finance & stocks,13,0,1
+2025-04-27,Government policy & news,11,1,8
+2025-04-27,Health products,1,3,4
+2025-04-27,Public order & security,2,1,0
+2025-05-04,Disasters,0,0,2
+2025-05-04,Finance & stocks,12,2,0
+2025-05-04,Government policy & news,8,3,16
+2025-05-04,Health products,1,3,1
+2025-05-04,Public order & security,1,0,0
+2025-05-11,Disasters,1,2,1
+2025-05-11,Drugs,0,0,1
+2025-05-11,Finance & stocks,13,1,1
+2025-05-11,Government policy & news,9,2,7
+2025-05-11,Health products,1,4,4
+2025-05-11,Public order & security,1,0,0
+2025-05-18,Disasters,0,1,3
+2025-05-18,Finance & stocks,11,0,1
+2025-05-18,Government policy & news,13,1,11
+2025-05-18,Health products,2,5,0
+2025-05-18,Public order & security,1,0,0
+2025-05-25,Disasters,3,2,1
+2025-05-25,Finance & stocks,7,0,0
+2025-05-25,Government policy & news,10,4,13
+2025-05-25,Health products,2,5,2
+2025-06-01,Disasters,2,2,1
+2025-06-01,Finance & stocks,7,0,1
+2025-06-01,Government policy & news,10,0,9
+2025-06-01,Health products,6,2,4
+2025-06-01,Public order & security,4,2,0
+2025-06-08,Disasters,0,0,1
+2025-06-08,Finance & stocks,12,0,0
+2025-06-08,Government policy & news,9,1,13
+2025-06-08,Health products,3,5,2
+2025-06-08,Public order & security,2,0,0
+2025-06-15,Finance & stocks,11,0,1
+2025-06-15,Government policy & news,12,1,10
+2025-06-15,Health products,4,6,2
+2025-06-15,Public order & security,2,0,0
+2025-06-22,Disasters,1,0,1
+2025-06-22,Drugs,0,0,1
+2025-06-22,Finance & stocks,11,0,0
+2025-06-22,Government policy & news,14,4,8
+2025-06-22,Health products,3,3,0
+2025-06-22,Public order & security,2,0,1
+2025-06-29,Disasters,8,1,0
+2025-06-29,Finance & stocks,13,0,0
+2025-06-29,Government policy & news,10,1,5
+2025-06-29,Health products,0,2,2
+2025-06-29,Public order & security,4,4,0
+2025-07-06,Disasters,1,2,0
+2025-07-06,Finance & stocks,17,1,0
+2025-07-06,Government policy & news,13,3,6
+2025-07-06,Health products,0,0,1
+2025-07-06,Public order & security,3,1,0
+2025-07-13,Disasters,1,1,3
+2025-07-13,Finance & stocks,16,0,0
+2025-07-13,Government policy & news,12,2,6
+2025-07-13,Health products,2,3,1
+2025-07-13,Public order & security,3,0,0
+2025-07-20,Disasters,2,1,3
+2025-07-20,Finance & stocks,11,0,0
+2025-07-20,Government policy & news,9,1,4
+2025-07-20,Health products,3,5,4
+2025-07-20,Public order & security,10,3,3
+2025-07-27,Disasters,1,1,0
+2025-07-27,Finance & stocks,11,0,0
+2025-07-27,Government policy & news,6,1,7
+2025-07-27,Health products,1,1,1
+2025-07-27,Public order & security,29,2,2
+2025-08-03,Disasters,2,0,0
+2025-08-03,Finance & stocks,8,0,0
+2025-08-03,Government policy & news,6,3,6
+2025-08-03,Health products,1,4,2
+2025-08-03,Public order & security,10,0,13
+2025-08-10,Disasters,1,0,1
+2025-08-10,Finance & stocks,10,0,1
+2025-08-10,Government policy & news,10,3,4
+2025-08-10,Health products,3,1,5
+2025-08-10,Public order & security,12,3,4
+2025-08-17,Disasters,1,0,0
+2025-08-17,Finance & stocks,16,0,0
+2025-08-17,Government policy & news,11,1,3
+2025-08-17,Health products,3,3,3
+2025-08-17,Public order & security,9,3,3
+2025-08-24,Disasters,0,0,5
+2025-08-24,Finance & stocks,11,0,1
+2025-08-24,Government policy & news,13,1,7
+2025-08-24,Health products,1,2,2
+2025-08-24,Public order & security,4,1,2
+2025-08-31,Disasters,1,0,1
+2025-08-31,Finance & stocks,13,0,0
+2025-08-31,Government policy & news,10,0,11
+2025-08-31,Health products,2,5,2
+2025-08-31,Public order & security,4,0,0
+2025-09-07,Disasters,0,2,4
+2025-09-07,Finance & stocks,11,0,0
+2025-09-07,Government policy & news,22,0,4
+2025-09-07,Health products,1,0,2
+2025-09-07,Public order & security,2,0,1
+2025-09-14,Disasters,2,0,0
+2025-09-14,Finance & stocks,9,0,0
+2025-09-14,Government policy & news,15,0,9
+2025-09-14,Health products,4,3,1
+2025-09-14,Public order & security,1,0,3
+2025-09-21,Disasters,3,3,2
+2025-09-21,Finance & stocks,10,0,1
+2025-09-21,Government policy & news,13,0,6
+2025-09-21,Health products,3,0,0
+2025-09-21,Public order & security,9,0,0
+2025-09-28,Disasters,0,0,1
+2025-09-28,Finance & stocks,8,0,0
+2025-09-28,Government policy & news,14,1,5
+2025-09-28,Health products,4,5,4
+2025-09-28,Public order & security,5,0,2
+2025-10-05,Disasters,0,1,0
+2025-10-05,Finance & stocks,7,0,1
+2025-10-05,Government policy & news,17,0,12
+2025-10-05,Health products,1,1,5
+2025-10-05,Public order & security,2,0,2
+2025-10-12,Finance & stocks,11,0,0
+2025-10-12,Government policy & news,12,1,10
+2025-10-12,Health products,2,6,2
+2025-10-12,Public order & security,0,2,3
+2025-10-19,Disasters,0,1,0
+2025-10-19,Finance & stocks,9,0,0
+2025-10-19,Government policy & news,17,1,7
+2025-10-19,Health products,4,3,2
+2025-10-19,Public order & security,3,0,3
+2025-10-26,Disasters,0,1,0
+2025-10-26,Finance & stocks,13,0,2
+2025-10-26,Government policy & news,17,3,8
+2025-10-26,Health products,2,0,3
+2025-11-02,Disasters,0,0,1
+2025-11-02,Finance & stocks,13,0,0
+2025-11-02,Government policy & news,11,3,10
+2025-11-02,Health products,5,3,1
+2025-11-02,Public order & security,1,0,0
+2025-11-09,Disasters,3,0,1
+2025-11-09,Finance & stocks,8,0,0
+2025-11-09,Government policy & news,18,3,12
+2025-11-09,Health products,0,3,0
+2025-11-09,Public order & security,0,1,0
+2025-11-16,Disasters,1,1,1
+2025-11-16,Finance & stocks,14,0,0
+2025-11-16,Government policy & news,15,0,4
+2025-11-16,Health products,1,5,1
+2025-11-16,Public order & security,5,0,0
+2025-11-23,Disasters,3,0,2
+2025-11-23,Finance & stocks,9,0,0
+2025-11-23,Government policy & news,13,1,15
+2025-11-23,Health products,1,2,4
+2025-11-23,Public order & security,1,0,0
+2025-11-30,Disasters,0,0,2
+2025-11-30,Finance & stocks,16,0,0
+2025-11-30,Government policy & news,9,0,14
+2025-11-30,Health products,1,2,4
+2025-11-30,Public order & security,1,0,0
+2025-12-07,Finance & stocks,5,0,1
+2025-12-07,Government policy & news,7,1,9
+2025-12-07,Health products,2,2,1
+2025-12-07,Public order & security,7,0,16
+2025-12-14,Disasters,0,1,1
+2025-12-14,Finance & stocks,7,0,0
+2025-12-14,Government policy & news,8,0,4
+2025-12-14,Health products,0,1,0
+2025-12-14,Public order & security,11,2,20
+2025-12-21,Finance & stocks,9,0,1
+2025-12-21,Government policy & news,6,2,5
+2025-12-21,Health products,0,5,1
+2025-12-21,Public order & security,8,2,13
+2025-12-28,Disasters,0,1,0
+2025-12-28,Finance & stocks,15,0,0
+2025-12-28,Government policy & news,16,0,7
+2025-12-28,Health products,1,0,1
+2025-12-28,Public order & security,0,0,9
+2026-01-04,Disasters,0,1,1
+2026-01-04,Finance & stocks,20,0,1
+2026-01-04,Government policy & news,10,1,2
+2026-01-04,Health products,0,3,1
+2026-01-04,Public order & security,2,1,6
+2026-01-11,Finance & stocks,6,0,1
+2026-01-11,Government policy & news,17,4,9
+2026-01-11,Health products,4,5,1
+2026-01-11,Public order & security,0,0,2
+2026-01-18,Disasters,0,0,1
+2026-01-18,Finance & stocks,13,0,0
+2026-01-18,Government policy & news,11,1,10
+2026-01-18,Health products,5,2,2
+2026-01-18,Public order & security,2,0,2
+2026-01-25,Disasters,1,0,1
+2026-01-25,Finance & stocks,9,0,0
+2026-01-25,Government policy & news,10,8,8
+2026-01-25,Health products,3,1,7
+2026-01-25,Online crime,1,0,0
+2026-01-25,Public order & security,3,1,1
+2026-02-01,Disasters,0,0,1
+2026-02-01,Finance & stocks,3,0,2
+2026-02-01,Government policy & news,6,4,7
+2026-02-01,Health products,5,4,3
+2026-02-01,Online crime,12,0,0
+2026-02-01,Public order & security,2,0,1
+2026-02-08,Disasters,0,0,1
+2026-02-08,Finance & stocks,12,0,2
+2026-02-08,Government policy & news,6,1,8
+2026-02-08,Health products,1,3,3
+2026-02-08,Online crime,10,0,0
+2026-02-08,Public order & security,1,1,1
+2026-02-15,Disasters,0,0,1
+2026-02-15,Finance & stocks,7,0,0
+2026-02-15,Government policy & news,7,1,13
+2026-02-15,Health products,3,2,3
+2026-02-15,Online crime,13,0,0
+2026-02-15,Public order & security,2,0,0
+2026-02-22,Disasters,2,0,2
+2026-02-22,Finance & stocks,5,0,0
+2026-02-22,Government policy & news,8,3,12
+2026-02-22,Health products,1,1,2
+2026-02-22,Online crime,10,0,0
+2026-02-22,Public order & security,4,1,2
+2026-03-01,Disasters,0,0,3
+2026-03-01,Finance & stocks,3,0,0
+2026-03-01,Government policy & news,10,4,22
+2026-03-01,Health products,0,1,1
+2026-03-01,Online crime,11,0,0
+2026-03-01,Public order & security,4,1,0
+2026-03-08,Disasters,0,0,1
+2026-03-08,Finance & stocks,8,0,0
+2026-03-08,Government policy & news,13,3,9
+2026-03-08,Health products,1,3,2
+2026-03-08,Online crime,4,0,0
+2026-03-08,Public order & security,7,0,0
+2026-03-15,Disasters,0,0,1
+2026-03-15,Finance & stocks,3,0,0
+2026-03-15,Government policy & news,14,4,15
+2026-03-15,Health products,0,3,3
+2026-03-15,Online crime,6,0,0
+2026-03-15,Public order & security,4,0,0
+2026-03-22,Disasters,0,0,2
+2026-03-22,Finance & stocks,4,0,0
+2026-03-22,Government policy & news,9,3,11
+2026-03-22,Health products,5,2,3
+2026-03-22,Online crime,8,0,0
+2026-03-22,Public order & security,1,0,0
+2026-03-29,Finance & stocks,8,0,0
+2026-03-29,Government policy & news,4,4,12
+2026-03-29,Health products,1,6,2
+2026-03-29,Online crime,12,0,0
+2026-03-29,Public order & security,1,0,0
+2026-04-05,Disasters,0,0,1
+2026-04-05,Finance & stocks,6,0,0
+2026-04-05,Government policy & news,9,5,10
+2026-04-05,Health products,0,5,5
+2026-04-05,Online crime,12,0,0
+2026-04-05,Public order & security,1,1,0
+2026-04-12,Disasters,0,0,1
+2026-04-12,Finance & stocks,7,0,0
+2026-04-12,Government policy & news,2,4,19
+2026-04-12,Health products,1,0,2
+2026-04-12,Online crime,11,0,0
+2026-04-12,Public order & security,3,1,0
+2026-04-19,Disasters,0,1,2
+2026-04-19,Finance & stocks,4,0,0
+2026-04-19,Government policy & news,8,5,10
+2026-04-19,Health products,2,0,4
+2026-04-19,Online crime,12,0,0
+2026-04-19,Public order & security,1,0,0
+2026-04-26,Disasters,0,0,1
+2026-04-26,Government policy & news,13,9,11
+2026-04-26,Health products,3,2,1
+2026-04-26,Online crime,9,0,0
+2026-04-26,Public order & security,4,0,0
+2026-05-03,Finance & stocks,4,0,0
+2026-05-03,Government policy & news,12,6,8
+2026-05-03,Health products,2,1,2
+2026-05-03,Online crime,10,0,0
+2026-05-03,Public order & security,1,2,0
+2026-05-10,Finance & stocks,4,0,0
+2026-05-10,Government policy & news,12,5,10
+2026-05-10,Health products,2,6,2
+2026-05-10,Online crime,4,0,0
+2026-05-10,Public order & security,3,2,0
+2026-05-17,Disasters,0,0,2
+2026-05-17,Finance & stocks,4,0,0
+2026-05-17,Government policy & news,11,4,8
+2026-05-17,Health products,3,4,1
+2026-05-17,Online crime,5,0,0
+2026-05-17,Public order & security,6,1,0
+2026-05-24,Finance & stocks,1,0,0
+2026-05-24,Government policy & news,12,8,5
+2026-05-24,Health products,4,3,1
+2026-05-24,Online crime,9,0,0
+2026-05-24,Public order & security,7,2,0
+2026-05-31,Disasters,1,0,0
+2026-05-31,Government policy & news,7,2,13
+2026-05-31,Health products,8,3,1
+2026-05-31,Online crime,6,0,0
+2026-05-31,Public order & security,6,2,0
+2026-06-07,Disasters,2,0,0
+2026-06-07,Government policy & news,12,3,13
+2026-06-07,Health products,2,3,2
+2026-06-07,Online crime,6,0,0
+2026-06-07,Public order & security,5,1,0
+2026-06-14,Disasters,0,1,1
+2026-06-14,Government policy & news,5,7,11
+2026-06-14,Health products,6,2,1
+2026-06-14,Online crime,5,0,0
+2026-06-14,Public order & security,7,3,0
+2026-06-21,Finance & stocks,2,0,0
+2026-06-21,Government policy & news,8,6,11
+2026-06-21,Health products,0,1,1
+2026-06-21,Online crime,8,0,0
+2026-06-21,Public order & security,6,3,2
+2026-06-28,Disasters,6,2,1
+2026-06-28,Finance & stocks,1,0,0
+2026-06-28,Government policy & news,5,10,7
+2026-06-28,Health products,0,2,0
+2026-06-28,Online crime,13,0,0
+2026-06-28,Public order & security,4,0,0
+2026-07-05,Disasters,2,0,1
+2026-07-05,Government policy & news,5,4,11
+2026-07-05,Health products,1,3,1
+2026-07-05,Online crime,8,0,0
+2026-07-05,Public order & security,10,4,0
+2026-07-12,Disasters,0,3,0
+2026-07-12,Government policy & news,6,6,11
+2026-07-12,Health products,4,2,2
+2026-07-12,Online crime,7,0,0
+2026-07-12,Public order & security,5,3,0
+2026-07-19,Disasters,1,0,0
+2026-07-19,Government policy & news,8,8,9
+2026-07-19,Health products,3,3,1
+2026-07-19,Online crime,10,0,0
+2026-07-19,Public order & security,4,1,0
+2026-07-26,Disasters,0,1,1
+2026-07-26,Finance & stocks,1,0,0
+2026-07-26,Government policy & news,5,6,14
+2026-07-26,Health products,1,2,3
+2026-07-26,Online crime,5,1,0
+2026-07-26,Public order & security,5,2,1
+2026-08-02,Disasters,0,0,4
+2026-08-02,Government policy & news,8,10,12
+2026-08-02,Health products,0,4,1
+2026-08-02,Online crime,7,0,0
+2026-08-02,Public order & security,2,0,1
+2026-08-09,Disasters,0,1,2
+2026-08-09,Government policy & news,11,0,10
+2026-08-09,Health products,2,4,0
+2026-08-09,Online crime,13,0,0
+2026-08-09,Public order & security,5,1,0
+2026-08-16,Disasters,0,0,1
+2026-08-16,Government policy & news,10,5,15
+2026-08-16,Health products,3,9,0
+2026-08-16,Online crime,6,0,0
+2026-08-16,Public order & security,1,0,0
+2026-08-23,Disasters,2,0,2
+2026-08-23,Finance & stocks,1,0,0
+2026-08-23,Government policy & news,9,5,12
+2026-08-23,Health products,1,8,2
+2026-08-23,Online crime,7,0,0
+2026-08-23,Public order & security,1,1,0
+2026-08-30,Disasters,1,0,1
+2026-08-30,Government policy & news,7,5,12
+2026-08-30,Health products,6,4,2
+2026-08-30,Online crime,10,0,0
+2026-09-06,Disasters,0,0,1
+2026-09-06,Government policy & news,6,6,12
+2026-09-06,Health products,0,2,2
+2026-09-06,Online crime,16,0,0
+2026-09-06,Public order & security,1,2,0
+2026-09-13,Disasters,0,0,3
+2026-09-13,Government policy & news,7,8,9
+2026-09-13,Health products,4,5,2
+2026-09-13,Online crime,8,0,0
+2026-09-13,Public order & security,1,0,0
+2026-09-20,Disasters,1,3,4
+2026-09-20,Finance & stocks,1,0,0
+2026-09-20,Government policy & news,5,1,11
+2026-09-20,Health products,8,3,1
+2026-09-20,Online crime,10,0,0
+2026-09-20,Public order & security,3,0,0
+2026-09-27,Disasters,7,2,7
+2026-09-27,Government policy & news,11,5,10
+2026-09-27,Health products,3,2,0
+2026-09-27,Online crime,7,0,0
+2026-10-04,Disasters,1,1,5
+2026-10-04,Government policy & news,8,5,7
+2026-10-04,Health products,5,5,3
+2026-10-04,Online crime,8,0,0
+2026-10-04,Public order & security,0,1,0
+2026-10-11,Disasters,0,0,1
+2026-10-11,Government policy & news,3,3,13
+2026-10-11,Health products,7,4,1
+2026-10-11,Online crime,13,0,0
+2026-10-11,Public order & security,2,1,0
+2026-10-18,Disasters,1,1,2
+2026-10-18,Government policy & news,2,6,11
+2026-10-18,Health products,4,4,3
+2026-10-18,Online crime,13,0,0
+2026-10-18,Public order & security,3,0,0
+2026-10-25,Disasters,1,0,2
+2026-10-25,Government policy & news,8,4,13
+2026-10-25,Health products,0,4,0
+2026-10-25,Online crime,9,0,0
+2026-10-25,Public order & security,3,0,1
