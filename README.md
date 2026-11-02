@@ -72,3 +72,10 @@ docs/data_methodology.md  วิธีนับ การเชื่อม แ�
 สามแหล่งที่แนะนำสำหรับเรื่องหลักคือ AIID + Freedom on the Net + EUvsDisinfo ส่วน AFNC + ACSC เป็นส่วนเสริม AIID จับคู่คะแนนประเทศ–ปีได้บางส่วน (122/1,775 เหตุการณ์) แต่ EUvsDisinfo ไม่มีคีย์จับคู่เหตุการณ์ จึงแสดงเป็นบริบทแยก ไม่อ้างว่า JOIN ครบทั้งสามแหล่งหรือมีเหตุและผลระหว่างกัน
 
 ทิศทางใหม่และกติกาบริบทอยู่ใน [docs/dashboard_direction.md](docs/dashboard_direction.md) รายละเอียดส่วนเสริมไทยอยู่ใน [docs/data_methodology.md](docs/data_methodology.md)
+
+## ลิงก์สาธารณะ
+
+https://signal-ai-dashboard-20261102.cometlime2048.chatgpt.site
+
+เผยแพร่ผ่าน Sites วันที่ 2 พ.ย. 2026 ทุกคนที่มีลิงก์เข้าดูได้ ไฟล์สำหรับเผยแพร่อยู่ใน public-site/
+
