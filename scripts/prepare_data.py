@@ -102,6 +102,9 @@ def xlsx_incidents(path):
             actual_date = date(raw_date).isoformat()
         row['date'] = actual_date
         row['year'] = date(actual_date).year
+        row['Country Code Raw'] = row['Country Code']
+        if row['Country Code'] == 'United States':
+            row['Country Code'] = 'US'
         row['report_count'] = number(row['report_count'])
         assert row['report_count'] is None or row['report_count'] >= 0
         result.append(row)
@@ -114,7 +117,8 @@ def main():
     original = unique(read_csv('weekly_panel.csv'), 'week_start', 'weekly_panel')
     afnc = unique(read_csv('afnc_items.csv'), 'post_id', 'AFNC')
     acsc = unique(read_csv('acsc_weekly.csv'), 'week_start', 'ACSC')
-    latest = sorted(RAW.glob('AIID_Excel_Export-*.xlsx'))[-1]
+    latest = RAW / 'AIID_Excel_Export-20261026.xlsx'
+    assert latest.exists(), 'Required primary snapshot is missing: 20261026'
     ai = xlsx_incidents(latest)
     counts = collections.defaultdict(collections.Counter)
     cats = collections.defaultdict(lambda: collections.defaultdict(collections.Counter))
@@ -208,13 +212,13 @@ def main():
         'panel_reconciliation_differences': len(diffs), 'issues': issues,
         'rules': [
             'Raw files are unchanged; exact duplicate keys removed only if all fields match; conflicting duplicates fail.',
-            'weekly_panel is the weekly spine; AFNC is rebuilt from publication dates and reconciled to the supplied panel.',
+            'AIID 20261026 is the primary fact table. weekly_panel is the Thai supplement spine, reconciled to AFNC.',
             'Missing scam statistics stay null; AFNC empty weeks are zero publication counts, not evidence of zero misinformation.',
             '2026-08-16 suspect totals and 2026-05-31 eight-day overlapping interval are excluded from scam metrics by default, never deleted.',
             'Other caution rows remain included; all flags and original reporting intervals are retained.',
             'Ratios are recomputed from sums. Months follow week_start; they are reporting buckets, not exact calendar-month event counts.',
-            'AIID uses the newest snapshot actually available in the project; no snapshots are concatenated.',
-            'AIID is contextual only: no invented join between foreign AI incidents and Thai scam cases.',
+            'AIID is pinned to the required 20261026 snapshot; no snapshots are concatenated.',
+            'AIID is primary; freedom scores and EUvsDisinfo are independent context; no invented incident-level joins.',
             'Scam type names are preserved; no automatic merging of ambiguous category labels.',
         ],
     }

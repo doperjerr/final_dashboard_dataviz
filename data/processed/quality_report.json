@@ -37,13 +37,13 @@
   ],
   "rules": [
     "Raw files are unchanged; exact duplicate keys removed only if all fields match; conflicting duplicates fail.",
-    "weekly_panel is the weekly spine; AFNC is rebuilt from publication dates and reconciled to the supplied panel.",
+    "AIID 20261026 is the primary fact table. weekly_panel is the Thai supplement spine, reconciled to AFNC.",
     "Missing scam statistics stay null; AFNC empty weeks are zero publication counts, not evidence of zero misinformation.",
     "2026-08-16 suspect totals and 2026-05-31 eight-day overlapping interval are excluded from scam metrics by default, never deleted.",
     "Other caution rows remain included; all flags and original reporting intervals are retained.",
     "Ratios are recomputed from sums. Months follow week_start; they are reporting buckets, not exact calendar-month event counts.",
-    "AIID uses the newest snapshot actually available in the project; no snapshots are concatenated.",
-    "AIID is contextual only: no invented join between foreign AI incidents and Thai scam cases.",
+    "AIID is pinned to the required 20261026 snapshot; no snapshots are concatenated.",
+    "AIID is primary; freedom scores and EUvsDisinfo are independent context; no invented incident-level joins.",
     "Scam type names are preserved; no automatic merging of ambiguous category labels."
   ]
 }

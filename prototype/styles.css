@@ -6,3 +6,11 @@
 /* Keep chart text legible after responsive SVG scaling. */
 .chart text{font-size:13px}.chart .label,.chart .value{font-size:14px}
 @media(max-width:760px){.chart{overflow-x:auto}.chart svg{min-width:450px}.chart text{font-size:13px}}
+
+.world-chart{overflow-x:auto;background:#f4f8fa;border-radius:8px;padding:12px}.world-chart svg{width:100%;min-width:450px;display:block}.country-hit{cursor:pointer}.country-hit:hover,.country-hit:focus{stroke:#d57532;stroke-width:2}.map-legend{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:16px;font-size:11px;color:#697987}.map-legend i{display:inline-block;width:12px;height:12px;margin-right:5px}.score-gradient{height:10px;width:180px;background:linear-gradient(90deg,#c5715d,#dbb96f,#1f8b79);border-radius:4px}.rail-bottom p{font-size:9px;letter-spacing:.3px}
+
+
+[hidden]{display:none!important}.method-details{background:#fff;border:1px solid #e3e9ee;border-radius:8px;padding:16px 20px;margin:20px 0}.method-details summary{font-size:12px}.section-heading p{line-height:1.9}.section-heading .eyebrow{margin:0 0 6px}.section-heading h2{font-size:20px}.filters select{max-width:290px}[data-month]{cursor:pointer}
+
+
+.selection-actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:12px 0 4px}[data-risk],[data-intent],[data-freedom-year]{cursor:pointer}[data-risk]:hover,[data-intent]:hover{opacity:.75}[data-freedom-year]:hover{stroke:#e69c59;stroke-width:3}.filters .presets{flex-wrap:wrap}.country-hit[aria-pressed=true]{stroke:#d57532;stroke-width:2}

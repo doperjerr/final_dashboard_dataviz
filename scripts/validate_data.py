@@ -59,6 +59,26 @@ def main():
     assert len(ai) == len({r['Incident ID'] for r in ai})
     assert len(ai) == report['counts']['ai_incidents']
     assert sum(bool(r['Risk Domain']) for r in ai) == report['counts']['ai_classified']
+    if (OUT/'freedom_country_year_clean.csv').exists():
+        freedom = read(OUT/'freedom_country_year_clean.csv')
+        raw_freedom = read(ROOT/'dataset'/'freedom_on_the_net_scores.csv')
+        assert len(freedom) == len(raw_freedom)
+        assert len({(r['iso3'],r['data_year']) for r in freedom}) == len(freedom)
+        lookup = {(r['iso3'],r['data_year']): r for r in freedom}
+        for r in freedom:
+            assert int(r['total_score']) == sum(int(r[k]) for k in ['obstacles_to_access','limits_on_content','violations_of_user_rights'])
+        joined = read(OUT/'ai_country_year_context.csv')
+        assert len(joined) == len(ai) == len({r['incident_id'] for r in joined})
+        for r in joined:
+            if r['join_status'] == 'matched':
+                assert int(r['freedom_score']) == int(lookup[(r['iso3'],r['year'])]['total_score'])
+            else:
+                assert r['freedom_score'] == ''
+        eu_raw = read(ROOT/'dataset'/'euvsdisinfo_base.csv')
+        eu = read(OUT/'eu_debunks_clean.csv')
+        assert {r['debunk_id'] for r in eu} == {r['debunk_id'] for r in eu_raw}
+        assert len(eu) == len({r['debunk_id'] for r in eu})
+        print('PASS: country/year score uniqueness and components; non-expanding AI left join with exact year; null unmatched scores; EU debunk deduplication.')
     print('PASS: source hashes; AFNC weekly counts and ratios; unique join keys; ACSC totals and intervals; missing values; quality exclusions; category totals; AI snapshot keys and coverage.')
 
 
